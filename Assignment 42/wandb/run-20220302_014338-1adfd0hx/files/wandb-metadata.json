@@ -1,0 +1,28 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.10.2",
+    "heartbeatAt": "2022-03-01T22:13:46.148144",
+    "startedAt": "2022-03-01T22:13:38.290963",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9012",
+        "--control=9009",
+        "--hb=9008",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"5dcc64ad-ad25-4bf4-a830-75ed412a6caf\"",
+        "--shell=9011",
+        "--transport=\"tcp\"",
+        "--iopub=9013",
+        "--f=C:\\Users\\M0E46~1.NAJ\\AppData\\Local\\Temp\\tmp-6484V7uShMGLgX5s.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Mehrdad",
+    "username": "M.Najafi",
+    "executable": "C:\\Users\\M.Najafi\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
