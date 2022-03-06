@@ -3,7 +3,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-  # MLP- Actors Classification
+  ### MLP- Actors Classification
   - Face classification using DeepFace library
   - Use ArcFace model for extract the feature vector and save it into a csv file
   - Create a MLP model and train it with FaceFeatures data
@@ -20,7 +20,8 @@
 <details>
   <summary>Click to expand!</summary>
   
-  - Comparison between Machine Learning ( MLP ) and Deep Learning ( CNN )
+  ### Comparison between Machine Learning ( MLP ) and Deep Learning ( CNN + MLP )
+  - Comparison between Machine Learning ( MLP ) and Deep Learning ( CNN + MLP )
     - Contains 4 datasets:
       - Mnist
       - Fashion_Mnist
