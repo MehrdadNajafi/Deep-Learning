@@ -1,5 +1,5 @@
 # Assignment 43
-- Comparison between Machine Learning ( MLP ) and Deep Learning ( CNN )
+- Comparison between Machine Learning ( MLP ) and Deep Learning ( CNN + MLP )
   - Contains 4 datasets:
     - Mnist
     - Fashion_Mnist
