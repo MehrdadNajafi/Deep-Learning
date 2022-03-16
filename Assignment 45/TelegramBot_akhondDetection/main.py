@@ -4,7 +4,7 @@ from model import Model
 
 model = Model()
 
-mybot = telebot.TeleBot(token="5241854696:AAE2IhD5_g0LbaBDUl442M59aqzrfu0KBtE")
+mybot = telebot.TeleBot(token="Token")
 
 if not os.path.exists("images"):
     os.mkdir("images")
