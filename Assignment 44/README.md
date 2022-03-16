@@ -11,8 +11,8 @@
 - Wandb charts:
   - [Click to see](https://wandb.ai/mehrdadnajafi/Animals_Classification?workspace=user-mehrdadnajafi)
 - Download the model and dataset from link below:
-  - model (Uploading....) 
-  - dataset (Uploading....) 
+  - [model](https://drive.google.com/drive/folders/1sAf4e7PatE014Nz8ByP8Ce9pwl4ue8aV?usp=sharing)
+  - [dataset](https://drive.google.com/drive/folders/1y6lMNTo6dDwXwwkaxnE40FvxYiiXPo48?usp=sharing)
 
 - | Train Loss: 0.5458 | Val Loss: 0.9695 | Test Loss: 0.6731 |
   | :---: | :---: | :---: |
