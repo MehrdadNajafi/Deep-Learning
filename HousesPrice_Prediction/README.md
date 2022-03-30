@@ -12,6 +12,8 @@ HousesPrice Prediction using Tensorflow Keras
     ```
 ## Use the inference
 - And after the training done, You can execute the following command for Inference:
+- Or you can downlaod the trained model from my google drive and put the model folder into your folder:
+  - [Click to see](https://drive.google.com/drive/folders/1lK6ccTRAGs3ByWdRO00FvLh0zzmHGD90) 
   - ```
     python inference.py --input-path "[Input Patth]"
     ```
