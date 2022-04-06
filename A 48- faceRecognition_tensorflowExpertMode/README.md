@@ -12,7 +12,7 @@ Face Recognition using tensorflow expert mode and classification between 14 diff
 | MyModel | 80% | 0.02 |
 
 ## Inference
-- For using inference folder, You should first downlaod the model weights and put it inside the inference floder, Than open up inference folder in therminal and run following code:
+- For using inference folder, You should first download the model weights and put it inside the inference folder, Then open up inference folder in terminal and run following code:
   - ```
     python inference.py --inputPath [input path] --weightsPath [weights path]
     ```
